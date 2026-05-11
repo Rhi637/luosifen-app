@@ -34,9 +34,9 @@ import {
   AddressEdit,
   AddressList,
   SwipeCell,
-  GoodsAction,
-  GoodsActionIcon,
-  GoodsActionButton
+  ActionBar,
+  ActionBarIcon,
+  ActionBarButton
 } from 'vant'
 
 // 导入 Vant 样式
@@ -79,9 +79,9 @@ const vantComponents = [
   AddressEdit,
   AddressList,
   SwipeCell,
-  GoodsAction,
-  GoodsActionIcon,
-  GoodsActionButton
+  ActionBar,
+  ActionBarIcon,
+  ActionBarButton
 ]
 
 vantComponents.forEach(component => {
