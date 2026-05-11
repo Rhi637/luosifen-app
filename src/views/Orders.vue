@@ -17,7 +17,7 @@
 
     <!-- 订单列表 -->
     <div class="order-list">
-      <van-empty v-if="filteredOrders.length === 0" description="暂无订单" image="orders">
+      <van-empty v-if="filteredOrders.length === 0" description="暂无订单">
         <template #button>
           <van-button type="primary" color="#FF4D00" @click="$router.push('/menu')">
             去下单

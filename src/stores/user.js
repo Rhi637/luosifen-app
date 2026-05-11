@@ -11,7 +11,7 @@ export const useUserStore = defineStore('user', () => {
     id: 'user_' + Date.now(),
     name: '螺蛳粉爱好者',
     phone: '138****8888',
-    avatar: 'https://via.placeholder.com/100x100/FF4D00/FFFFFF?text=用户',
+    avatar: '/luosifen-app/images/avatar.svg',
     memberLevel: 'gold',
     points: 520,
     balance: 100.00

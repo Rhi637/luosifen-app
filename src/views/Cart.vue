@@ -10,7 +10,7 @@
     />
 
     <!-- 空购物车 -->
-    <van-empty v-if="isEmpty" description="购物车是空的" image="shopping-cart">
+    <van-empty v-if="isEmpty" description="购物车是空的">
       <template #button>
         <van-button type="primary" color="#FF4D00" @click="$router.push('/menu')">
           去选购
