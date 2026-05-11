@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="150" viewBox="0 0 375 150">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF4D00"/>
+      <stop offset="100%" style="stop-color:#FF6B35"/>
+    </linearGradient>
+  </defs>
+  <rect width="375" height="150" fill="url(#bg)"/>
+  <text x="187" y="65" text-anchor="middle" fill="white" font-size="28" font-weight="bold" font-family="Arial, sans-serif">🎉 新人首单优惠</text>
+  <text x="187" y="100" text-anchor="middle" fill="white" font-size="18" font-family="Arial, sans-serif">首袋螺蛳粉仅需 ¥9.9</text>
+</svg>
