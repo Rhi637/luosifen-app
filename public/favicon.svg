@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#E65100"/>
+  <text x="50" y="38" text-anchor="middle" font-size="20" font-weight="bold" fill="white" font-family="sans-serif">螺霸王</text>
+  <text x="50" y="62" text-anchor="middle" font-size="16" fill="#FFAB00" font-family="sans-serif">螺蛳粉</text>
+  <path d="M30 72 Q50 82 70 72" stroke="#FFAB00" stroke-width="2" fill="none"/>
+</svg>
