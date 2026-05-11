@@ -1,0 +1,24 @@
+{
+  "name": "luosifen-app",
+  "version": "1.0.0",
+  "description": "螺霸王螺蛳粉外卖App",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "pinia": "^2.1.7",
+    "vant": "^4.8.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.6",
+    "sass": "^1.71.1",
+    "gh-pages": "^6.1.1"
+  }
+}

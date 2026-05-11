@@ -1,0 +1,93 @@
+// 螺蛳粉橙红色系主题变量
+
+// 主色调 - 螺蛳粉橙红
+$primary-color: #FF4D00;
+$primary-light: #FF7A4D;
+$primary-dark: #CC3D00;
+
+// 辅助色
+$secondary-color: #FF6B35;
+$accent-color: #FFA726;
+
+// 背景色
+$bg-color: #F5F5F5;
+$bg-white: #FFFFFF;
+$bg-dark: #1A1A1A;
+
+// 文字颜色
+$text-primary: #333333;
+$text-secondary: #666666;
+$text-light: #999999;
+$text-white: #FFFFFF;
+
+// 边框颜色
+$border-color: #EEEEEE;
+$border-light: #F0F0F0;
+
+// 功能色
+$success-color: #4CAF50;
+$warning-color: #FF9800;
+$error-color: #F44336;
+$info-color: #2196F3;
+
+// 价格颜色
+$price-color: #FF4D00;
+$original-price-color: #999999;
+
+// 会员等级颜色
+$member-normal: #999999;
+$member-silver: #C0C0C0;
+$member-gold: #FFD700;
+$member-platinum: #E5E4E2;
+$member-diamond: #B9F2FF;
+
+// 字体大小
+$font-size-xs: 10px;
+$font-size-sm: 12px;
+$font-size-md: 14px;
+$font-size-lg: 16px;
+$font-size-xl: 18px;
+$font-size-xxl: 20px;
+$font-size-title: 24px;
+
+// 字体粗细
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+// 圆角
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
+$border-radius-lg: 12px;
+$border-radius-xl: 16px;
+$border-radius-round: 50%;
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 12px;
+$spacing-lg: 16px;
+$spacing-xl: 20px;
+$spacing-xxl: 24px;
+
+// 阴影
+$shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+$shadow-md: 0 2px 8px rgba(0, 0, 0, 0.1);
+$shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.15);
+$shadow-primary: 0 4px 12px rgba(255, 77, 0, 0.3);
+
+// 动画时长
+$transition-fast: 0.15s;
+$transition-normal: 0.3s;
+$transition-slow: 0.5s;
+
+// Z-index 层级
+$z-index-dropdown: 100;
+$z-index-sticky: 200;
+$z-index-fixed: 500;
+$z-index-modal: 1000;
+$z-index-toast: 2000;
+
+// 页面容器宽度
+$page-max-width: 750px;
+$container-padding: 12px;
