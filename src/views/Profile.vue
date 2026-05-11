@@ -96,7 +96,7 @@
             <van-icon name="question-o" size="20" class="cell-icon" />
           </template>
         </van-cell>
-        <van-cell title="关于我们" is-link>
+        <van-cell title="关于我们" is-link @click="$router.push('/about')">
           <template #icon>
             <van-icon name="info-o" size="20" class="cell-icon" />
           </template>
