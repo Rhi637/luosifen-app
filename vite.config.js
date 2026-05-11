@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [vue()],
-  base: './luosifen-app/',
+  base: './',
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src')
